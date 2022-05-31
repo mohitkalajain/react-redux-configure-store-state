@@ -1,0 +1,1 @@
+# react-redux-configure-store-state
